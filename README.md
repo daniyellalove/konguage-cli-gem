@@ -1,5 +1,5 @@
 # konguage-cli-gem
-
+TEST
 description : This is a language resource and scheduler for those who have trouble starting Korean.
 
 ## Getting Started
